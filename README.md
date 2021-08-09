@@ -4,7 +4,7 @@
 
 - 🔭 I'm look for a job as software developer.
 - 🌱 I’m currently writing my thesis.
-- ⚡ Fun fact: I prototype and develop a social robot.
+- ⚡ Fun fact: I can prototype and develop a social robot.
 
 <br />
 
