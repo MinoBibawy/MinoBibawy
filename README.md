@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer and Tech enthusiast
 
-- 🔭 I'm look for a job as software developer.
+- 🏮 Working as Application Architect in Stellantis.
 - 🌱 I’m currently writing my thesis.
 - ⚡ Fun fact: I can prototype and develop a social robot.
 
