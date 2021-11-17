@@ -1,4 +1,4 @@
-### Hi there, I'm Mino Bibawy [Check my website](https://minobibawy.netlify.app/)👋
+### Hi there, I'm [Mino Bibawy](https://minobibawy.netlify.app/)👋
 
 ## I'm a Student, Developer and Tech enthusiast
 
