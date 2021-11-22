@@ -4,7 +4,7 @@
 
 - 🏮 Working as Application Architect in Stellantis.
 - 🌱 I’m currently writing my thesis.
-- ⚡ Fun fact: I can prototype and develop a social robot.
+- ⚡ I develop things to semplify my life.
 
 <br />
 
