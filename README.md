@@ -3,7 +3,6 @@
 ## I'm a Student, Developer and Tech enthusiast
 
 - 🏮 Working as Application Architect in Stellantis.
-- 🌱 I’m currently writing my thesis.
 - ⚡ I develop things to semplify my life.
 
 <br />
