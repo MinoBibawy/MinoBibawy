@@ -1,6 +1,6 @@
 ### Hi there, I'm [Mino Bibawy](https://minobibawy.netlify.app/)👋
 
-## I'm a Student, Developer and Tech enthusiast
+## I'm an Application Architect/Fullstack developer
 
 - 🏮 Working as Application Architect in Stellantis.
 - ⚡ I develop things to semplify my life.
