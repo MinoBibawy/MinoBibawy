@@ -2,7 +2,7 @@
 
 ## I'm an Application Architect/Fullstack developer
 
-- 🏮 Working as Application Architect in Stellantis.
+- 🏮 I do things.
 - ⚡ I develop things to semplify my life.
 
 <br />
